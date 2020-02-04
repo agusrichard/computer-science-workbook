@@ -1,5 +1,7 @@
-Dictionary:
+Logbook:
 
 1. Multiples of 3 and 5
 2. Even Fibonacci Numbers
 3. Sieve of Erastothenes
+4. The Birthday Problem
+5. Random Walk Version 1
