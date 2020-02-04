@@ -7,8 +7,10 @@ def multiples_of_x_and_y(x, y, n=1000):
 	true_list = set(x_list) | set(y_list)
 	return sum(list(true_list))
 
-summation = multiples_of_x_and_y(3, 5)
-print(summation)
+def main():
+	summation = multiples_of_x_and_y(3, 5)
+	print(summation)
 
 
-
+if __name__ == '__main__':
+	main()
