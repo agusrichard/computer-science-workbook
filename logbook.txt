@@ -5,8 +5,8 @@ Main:
 2. Even Fibonacci Numbers
 3. Sieve of Erastothenes
 4. The Birthday Problem
-5. Random Walk Version 1
-6. Random Walk Version 2
+5. Random Walk
+6. Collatz Conjecture
 
 
 Notebook Playground:
