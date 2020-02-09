@@ -18,6 +18,7 @@ def rectangular_pyramid(walk=10, difference=2, length=250):
 
 def main():
 	rectangular_pyramid()
+	turtle.done()
 
 if __name__ == '__main__':
 	main()

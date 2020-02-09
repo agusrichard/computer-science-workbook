@@ -8,6 +8,7 @@ Main:
 5. Random Walk
 6. Collatz Conjecture
 7. Rectangular Pyramid
+8. Triangular Circle
 
 
 Notebook Playground:
