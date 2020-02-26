@@ -27,7 +27,7 @@ def five_point_dot(arm=250, num_points=3, iterations=1000):
 	turtle.done()
 
 def main():
-	five_point_dot(num_points=7)
+	five_point_dot(num_points=3)
 
 if __name__ == '__main__':
 	main()
