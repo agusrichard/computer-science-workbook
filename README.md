@@ -1,3 +1,3 @@
-# PROJECT-EULER-AND-MORE
+# Computer Science Workbook
 
-Coding challenge
+Repository for learning notes and projects related to computer science theory 

@@ -1,0 +1,21 @@
+# Algorithms and Data Structures with Python Tasks
+
+- Create list access timing with pandas and numpy.
+- Implement all sorting algorithms from scratch by yourself.
+  - Selection sort
+  - Merge sort
+  - Quick sort
+- Minimax Algorithm
+- Implement your own LinkedList with all of its methods
+- Implement your own Stack and Queue with all of its methods
+- Implement Radix sort algorithm
+- HashSet and HashMap
+- Trees
+- Graph
+  - Directed
+  - Undirected
+  - Acylic
+  - Deep First Search
+  - Kruskal's Algorithm
+  - Greedy Algorithm
+  - Dijkstra’s algorithm

@@ -1,0 +1,9 @@
+x Binary search
+x Linear search
+x Palindrome
+x Sum of natural numbers
+x Decimal to Binary
+x Factorial
+- Fibonacci
+- Merge sort
+- LinkedList reversal
